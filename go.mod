@@ -23,3 +23,5 @@ require (
 	golang.org/x/text v0.3.6 // indirect
 	gopkg.in/check.v1 v1.0.0-20180628173108-788fd7840127 // indirect
 )
+
+replace github.com/emersion/go-message v0.14.1 => github.com/zkjanus/go-message v0.14.3-0.20210707175707-c2848ff91e88
