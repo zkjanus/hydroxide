@@ -19,3 +19,5 @@ require (
 	golang.org/x/sys v0.0.0-20210630005230-0f9fa26af87c // indirect
 	golang.org/x/term v0.0.0-20210615171337-6886f2dfbf5b // indirect
 )
+
+replace github.com/emersion/go-message v0.14.1 => github.com/zkjanus/go-message v0.14.3-0.20210707175707-c2848ff91e88

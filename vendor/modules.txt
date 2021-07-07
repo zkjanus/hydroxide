@@ -1,0 +1,85 @@
+# github.com/ProtonMail/go-crypto v0.0.0-20210408094314-bf0c5240ed99
+github.com/ProtonMail/go-crypto/bcrypt
+github.com/ProtonMail/go-crypto/bitcurves
+github.com/ProtonMail/go-crypto/blowfish
+github.com/ProtonMail/go-crypto/brainpool
+github.com/ProtonMail/go-crypto/cast5
+github.com/ProtonMail/go-crypto/curve25519
+github.com/ProtonMail/go-crypto/eax
+github.com/ProtonMail/go-crypto/ed25519
+github.com/ProtonMail/go-crypto/ed25519/internal/edwards25519
+github.com/ProtonMail/go-crypto/internal/byteutil
+github.com/ProtonMail/go-crypto/internal/randutil
+github.com/ProtonMail/go-crypto/internal/subtle
+github.com/ProtonMail/go-crypto/internal/syscall/unix
+github.com/ProtonMail/go-crypto/nacl/secretbox
+github.com/ProtonMail/go-crypto/ocb
+github.com/ProtonMail/go-crypto/openpgp
+github.com/ProtonMail/go-crypto/openpgp/aes/keywrap
+github.com/ProtonMail/go-crypto/openpgp/armor
+github.com/ProtonMail/go-crypto/openpgp/clearsign
+github.com/ProtonMail/go-crypto/openpgp/ecdh
+github.com/ProtonMail/go-crypto/openpgp/elgamal
+github.com/ProtonMail/go-crypto/openpgp/errors
+github.com/ProtonMail/go-crypto/openpgp/internal/algorithm
+github.com/ProtonMail/go-crypto/openpgp/internal/ecc
+github.com/ProtonMail/go-crypto/openpgp/internal/encoding
+github.com/ProtonMail/go-crypto/openpgp/packet
+github.com/ProtonMail/go-crypto/openpgp/s2k
+github.com/ProtonMail/go-crypto/poly1305
+github.com/ProtonMail/go-crypto/rand
+github.com/ProtonMail/go-crypto/rsa
+github.com/ProtonMail/go-crypto/salsa20/salsa
+# github.com/boltdb/bolt v1.3.1
+github.com/boltdb/bolt
+# github.com/emersion/go-bcrypt v0.0.0-20170822072041-6e724a1baa63
+github.com/emersion/go-bcrypt
+# github.com/emersion/go-imap v1.0.6
+github.com/emersion/go-imap
+github.com/emersion/go-imap/backend
+github.com/emersion/go-imap/client
+github.com/emersion/go-imap/commands
+github.com/emersion/go-imap/responses
+github.com/emersion/go-imap/server
+github.com/emersion/go-imap/utf7
+# github.com/emersion/go-imap-move v0.0.0-20190710073258-6e5a51a5b342
+github.com/emersion/go-imap-move
+# github.com/emersion/go-imap-specialuse v0.0.0-20201101201809-1ab93d3d150e
+github.com/emersion/go-imap-specialuse
+# github.com/emersion/go-mbox v1.0.2
+github.com/emersion/go-mbox
+# github.com/emersion/go-message v0.14.1 => github.com/zkjanus/go-message v0.14.3-0.20210707175707-c2848ff91e88
+github.com/emersion/go-message
+github.com/emersion/go-message/mail
+github.com/emersion/go-message/textproto
+# github.com/emersion/go-sasl v0.0.0-20200509203442-7bfe0ed36a21
+github.com/emersion/go-sasl
+# github.com/emersion/go-smtp v0.15.0
+github.com/emersion/go-smtp
+# github.com/emersion/go-textwrapper v0.0.0-20200911093747-65d896831594
+github.com/emersion/go-textwrapper
+# github.com/emersion/go-vcard v0.0.0-20200508080525-dd3110a24ec2
+github.com/emersion/go-vcard
+# github.com/emersion/go-webdav v0.3.0
+github.com/emersion/go-webdav
+github.com/emersion/go-webdav/carddav
+github.com/emersion/go-webdav/internal
+# github.com/howeyc/gopass v0.0.0-20190910152052-7cb4b85ec19c
+github.com/howeyc/gopass
+# github.com/martinlindhe/base36 v1.1.0
+github.com/martinlindhe/base36
+# golang.org/x/crypto v0.0.0-20210322153248-0c34fe9e7dc2
+golang.org/x/crypto/blowfish
+golang.org/x/crypto/ssh/terminal
+# golang.org/x/sys v0.0.0-20210403161142-5e06dd20ab57
+golang.org/x/sys/cpu
+golang.org/x/sys/internal/unsafeheader
+golang.org/x/sys/plan9
+golang.org/x/sys/unix
+golang.org/x/sys/windows
+# golang.org/x/term v0.0.0-20210406210042-72f3dc4e9b72
+golang.org/x/term
+# golang.org/x/text v0.3.6
+golang.org/x/text/encoding
+golang.org/x/text/encoding/internal/identifier
+golang.org/x/text/transform
